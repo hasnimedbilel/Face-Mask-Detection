@@ -1,0 +1,4 @@
+Just run this in your Terminal : 
+python detect_faces.py -p ./test123
+
+[retrained_graph.pb, retrained_labels] are the output of the training step.
